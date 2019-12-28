@@ -5,12 +5,7 @@
     padding-left: 20px;
     border-radius: 15px;
 }
-.topic-body {
-     padding: 25px 0 0 25px
-}
-.topic-body .topic-meta-data,  {
-    padding: 0 11px 0.25em 20px;
-}
+
 .suggested-topics .topic-list {
     width: 100%;
 }
@@ -27,7 +22,13 @@
         max-width: 1700px;
         width: 90%
     }
-     .user-summary-page .wrap, .categories-list .wrap, .navigation-topics .wrap {
+    .user-summary-page .wrap, 
+    .categories-list .wrap, 
+    .navigation-topics .wrap,
+    .archetype-private_message .wrap,  
+    .user-summary-page .wrap,
+    .user-messages-page .wrap,
+    .navigation-categories.categories-list.wrap {
         max-width: 1200px;
         width: 90%
     }
