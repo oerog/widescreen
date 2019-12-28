@@ -86,26 +86,6 @@
      padding-left: 0!important;   
      padding-top: 25px
 }
-
-/**********embedded posts*************/
-
-.embedded-posts.top .topic-body {
-   border-top:none !important;
-    padding-top: 15px;
-}
-.embedded-posts.top.topic-body {
-    border: 2px solid #888;
-    border-top:2px solid #888 !important;
-    border-bottom:none;
-    padding: 0;
-}
-.embedded-posts .topic-avatar {
-    padding-left: 25px !important;
-    padding-top: 15px;
-}
-.embedded-posts .collapse-down, .embedded-posts .collapse-up {
-    border: 1px solid #888888;
-}
 .topic-avatar {
   width: 90px;
   .avatar {
